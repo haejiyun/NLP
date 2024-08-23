@@ -1,13 +1,22 @@
-# NLP
-
-This repository showcases a collection of my academic machine learning projects. The projects cover a range of techniques, from sentiment analysis using natural language processing to supervised and unsupervised learning algorithms for classification and clustering tasks. Each project demonstrates my ability to apply appropriate machine learning methods to real-world problems and communicate the insights through interactive applications and presentations.
-<br/>
+# NLP Portfolio
 
 ----------
+## [Python/Streamlit] Sentiment Analysis with NLP
 
-- **[Python/Streamlit] Sentiment Analysis with NLP**<br/>
-Project : [Click here](https://airbnb-guest-reviews.streamlit.app/)<br/>
-Code : [Click here](https://github.com/haejiyun/Machine-Learning/blob/main/NLP/projet_marketing.py)<br/>
-Streamlit Repo : [Click here](https://github.com/haejiyun/airbnb-reviews)<br/>
-The purpose of this project is to analyze Airbnb guest experiences in Paris across various time periods, leveraging advanced Natural Language Processing (NLP) techniques on guest reviews. By combining various NLP tasks, this study aims to provide meaningful insights and a holistic view of guest experiences. The analysis results were transformed into an interactive Streamlit application.
+**Techniques**: Zero-shot Classification, BERT Sentiment Analysis
+
+This project aims to analyze Airbnb guest experiences in Paris over various time periods by applying advanced Natural Language Processing (NLP) techniques to guest reviews. By integrating different NLP tasks, the study provides comprehensive insights and a detailed overview of guest sentiments and experiences. The results of this analysis were presented through an interactive Streamlit application.
+
+The NLP pipeline utilized includes:
+Language Detection, identifying the language of each review.
+Translation, converting non-English reviews into English.
+Sentiment Analysis, using state-of-the-art transformer models like BERT to determine the sentiment of the reviews.
+Multi-label Classification, employing zero-shot classification to categorize review content into multiple relevant categories without the need for extensive labeled training data.
+<br/>
+
+<p align="center">
+  <img src="https://github.com/haejiyun/Machine-Learning/blob/main/NLP/streamlit.png"  width="300" height="200">
+<p/>
+
+<a href="https://airbnb-guest-reviews.streamlit.app">Online App</a>; <a href="https://github.com/haejiyun/Machine-Learning/blob/main/NLP/projet_marketing.py">Code</a><br/>
 <br/>
