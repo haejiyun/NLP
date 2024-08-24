@@ -1,6 +1,7 @@
 # NLP Portfolio
 
-Welcome to my Natural Language Processing (NLP) portfolio, where I explore the power of advanced NLP techniques to extract meaningful insights from textual data. My work focuses on leveraging state-of-the-art models and tools to tackle complex language-related challenges. 
+Welcome to my Natural Language Processing portfolio! 
+Here, I explore the power of advanced NLP techniques to extract meaningful insights from textual data. My work focuses on leveraging state-of-the-art models and tools to tackle complex language-related challenges. 
 
 ----------
 ## [Python/Streamlit] Airbnb Guest Review Analysis
